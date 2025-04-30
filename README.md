@@ -51,6 +51,6 @@ To play the game locally:
 - Installed module turtle
 - Installed module pandas
 
-## License
+### Disclaimer
 
 This project is for educational purposes only
